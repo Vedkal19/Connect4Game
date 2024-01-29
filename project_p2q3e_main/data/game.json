@@ -1,0 +1,70 @@
+{
+    "current": "a",
+    "player1": {
+        "wins": 0,
+        "name": "a",
+        "losses": 0
+    },
+    "player2": {
+        "wins": 0,
+        "name": "b",
+        "losses": 0
+    },
+    "max": 1,
+    "board": [
+        [
+            "red",
+            "green",
+            "green",
+            "red",
+            "empty",
+            "empty",
+            "empty"
+        ],
+        [
+            "empty",
+            "red",
+            "empty",
+            "green",
+            "empty",
+            "empty",
+            "empty"
+        ],
+        [
+            "empty",
+            "empty",
+            "empty",
+            "red",
+            "empty",
+            "empty",
+            "empty"
+        ],
+        [
+            "empty",
+            "empty",
+            "empty",
+            "green",
+            "empty",
+            "empty",
+            "empty"
+        ],
+        [
+            "empty",
+            "empty",
+            "empty",
+            "red",
+            "empty",
+            "empty",
+            "empty"
+        ],
+        [
+            "empty",
+            "empty",
+            "empty",
+            "green",
+            "empty",
+            "empty",
+            "empty"
+        ]
+    ]
+}

@@ -1,0 +1,70 @@
+{
+  "current": "Ben",
+  "player1": {
+    "wins": 0,
+    "name": "Vedant",
+    "losses": 0
+  },
+  "player2": {
+    "wins": 0,
+    "name": "Ben",
+    "losses": 0
+  },
+  "max": 0,
+  "board": [
+    [
+      "empty",
+      "red",
+      "red",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ],
+    [
+      "empty",
+      "green",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ],
+    [
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ],
+    [
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ],
+    [
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ],
+    [
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty",
+      "empty"
+    ]
+  ]
+}
